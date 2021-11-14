@@ -1,0 +1,6 @@
+# Referenced at D:\DigerProjeler\KommaradeFirmaApp\kommrade_firma\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\DigerProjeler\KommaradeFirmaApp\kommrade_firma\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class com.example.kommrade_firma.MainActivity { <init>(); }
+# Referenced at D:\DigerProjeler\KommaradeFirmaApp\kommrade_firma\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
